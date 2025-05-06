@@ -1,0 +1,9 @@
+{
+	"name": "gdsnewdatafactory",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60ce1d5d-a190-44a3-883f-f84f234025d9",
+		"tenantId": "326328c4-be0f-4246-b2e6-ffa897efeb55"
+	}
+}
